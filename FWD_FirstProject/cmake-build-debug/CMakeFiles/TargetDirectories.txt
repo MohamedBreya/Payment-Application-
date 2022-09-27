@@ -1,0 +1,3 @@
+/home/breya/Pictures/FWD_FirstProject/cmake-build-debug/CMakeFiles/FWD_FirstProject.dir
+/home/breya/Pictures/FWD_FirstProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/breya/Pictures/FWD_FirstProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
